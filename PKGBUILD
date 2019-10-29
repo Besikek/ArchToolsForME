@@ -1,0 +1,12 @@
+pkgname=must-have-packages
+pkgver=0.0.1
+pkgrel=1
+arch=(any)
+license=(MIT)
+depends=(
+nextcloud-client
+terminator
+firefox-developer-edition
+filezilla
+pacaur
+)
